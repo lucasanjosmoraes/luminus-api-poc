@@ -1,0 +1,5 @@
+{:dev          true
+ :port         3000
+ :nrepl-port   7000
+ :database-url "postgresql://localhost:5432/luminus_api_poc_dev?user=username&password=password"
+ }
