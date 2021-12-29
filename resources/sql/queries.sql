@@ -1,3 +1,5 @@
+-- More info: https://luminusweb.com/docs/database.html#working_with_hugsql
+
 -- :name save-message! :! :n
 -- :doc creates a new message
 INSERT INTO guestbook
