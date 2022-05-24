@@ -48,7 +48,7 @@ The `.env` is only required by the postgres container and the `*.edn` ones by th
 You can:
 
 - Start the API with `lein run`
-- Run migrations with `lein migrate`
+- Run migrations with `lein run migrate`
 - Run all project's tests with `lein test`
 - Generate `.jar` files with `lein uberjar`
 
